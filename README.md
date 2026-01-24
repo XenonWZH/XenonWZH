@@ -6,9 +6,9 @@
 ---
 
 ### 🔭 Interests & Focus
-- **Mathematics**: General study within the undergraduate mathematics curriculum.
-- **Deep Learning**: Introductory study of Computer Vision (CV).
-- **Algorithms**: Background in competitive programming with a focus on algorithm design.
+- **Mathematics**: Systematic training in core undergraduate mathematics (analysis, algebra, geometry).
+- **Deep Learning**: Currently studying deep learning, with an initial focus on computer vision.
+- **Algorithms**: Strong foundation in algorithms and data structures (competitive programming).
 
 ### 🛠️ Tech Stack
 <p align="left">
