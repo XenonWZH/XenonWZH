@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white" />
 </p>
 
-- **Languages**: C++, Python, LaTeX.
+- **Languages & Tools**: C++, Python, LaTeX.
 - **Current Activity**: Broadening knowledge in mathematics and machine learning.
 
 ---
@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=XenonWZH&show_icons=true&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XenonWZH&show_icons=true&hide_border=true&theme=transparent" width="400" />
 </p>
 
 ---
