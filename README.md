@@ -35,5 +35,5 @@
 ---
 
 ### 📫 Contact
-- **Email**: [**xenonwzh@qq.com**](mailto:xenonwzh@qq.com)
+- **Email**: xenonwzh [at] qq [dot] com
 - **Pronouns**: he / him
