@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=XenonWZH&show_icons=true&hide_border=true&theme=transparent" width="400" />
+  <img src="./profile/stats.svg" width="400" />
 </p>
 
 ---
