@@ -7,7 +7,7 @@
 
 ### 🔭 Interests & Focus
 - **Mathematics**: Systematic training in core undergraduate mathematics (analysis, algebra, geometry).
-- **Deep Learning**: Currently studying deep learning, with an initial focus on computer vision.
+- **Deep Learning**: Currently studying deep learning with a focus on computer vision.
 - **Algorithms**: Strong foundation in algorithms and data structures (competitive programming).
 
 ### 🛠️ Tech Stack
