@@ -12,7 +12,6 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Mathematics-37885d?style=flat-square&logo=sagemath&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
