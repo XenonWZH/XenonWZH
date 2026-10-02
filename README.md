@@ -3,14 +3,18 @@
 - **Mathematics Undergraduate**
 - **Former Competitive Programmer** (OIer, AFO)
 
+Currently studying **deep learning**, with particular interest in vision-related learning problems.
+
 ---
 
-### 🔭 Interests & Focus
-- **Mathematics**: Systematic training in core undergraduate mathematics (analysis, algebra, geometry).
-- **Deep Learning**: Currently studying deep learning with a focus on computer vision.
-- **Algorithms**: Strong foundation in algorithms and data structures (competitive programming).
+### 🔭 Background & Focus
 
-### 🛠️ Tech Stack
+- **Mathematics**: Mathematics-major training across the core undergraduate curriculum.
+- **Algorithms**: Competitive programming background in algorithms and data structures.
+- **Deep Learning**: Ongoing study of model architectures and learning methods.
+
+### 🛠️ Languages & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -18,21 +22,14 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white" />
 </p>
 
-- **Languages & Tools**: C++, Python, LaTeX.
-- **Current Activity**: Broadening knowledge in mathematics and machine learning.
+### 📊 GitHub Activity
 
----
-
-### 🌐 Presence
-[**Blog**](https://xenonwzh.github.io/) · [**Zhihu**](https://www.zhihu.com/people/xen0nwzh) · [**Bilibili**](https://space.bilibili.com/322190458)
-
-### 📊 GitHub Statistics
 <p align="left">
-  <img src="./profile/stats.svg" width="400" />
+  <img src="./profile/stats.svg" width="380" />
 </p>
 
----
+### 🌐 Links & Contact
 
-### 📫 Contact
-- **Email**: xenonwzh [at] qq [dot] com
-- **Pronouns**: he / him
+[**Blog**](https://xenonwzh.github.io/) · [**Zhihu**](https://www.zhihu.com/people/xen0nwzh) · [**Bilibili**](https://space.bilibili.com/322190458)
+
+**Email**: xenonwzh [at] qq [dot] com · **Pronouns**: he / him
