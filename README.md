@@ -1,6 +1,6 @@
 # XenonWZH 👋
 
-**Mathematics undergraduate** · **Former competitive programmer** (OIer, AFO)
+**Mathematics undergraduate** · Former competitive programmer (OIer, AFO)
 
 Currently studying **deep learning**, with particular interest in vision-related learning problems.
 
